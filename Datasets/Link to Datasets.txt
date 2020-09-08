@@ -1,0 +1,5 @@
+Apple App Store Strategy Games - https://www.kaggle.com/tristan581/17k-apple-app-store-strategy-games#appstore_games.csv
+
+Games on Steam - https://www.kaggle.com/nikdavis/steam-store-games#steam.csv
+
+Board Games - https://www.kaggle.com/centipede148/board-games-prediction-data#games.csv
