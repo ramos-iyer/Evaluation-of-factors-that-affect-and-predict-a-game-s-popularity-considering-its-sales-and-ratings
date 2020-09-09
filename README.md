@@ -73,9 +73,9 @@ The codes need to be opened on R Studio and can be run as a whole or run line by
 
 ![Screenshot1](/images/blrauc.png)
 ![Screenshot2](/images/c5jripauc.png)
-![Screenshot3](/images/mlrass.pngG)
+![Screenshot3](/images/mlrass.png)
 ![Screenshot4](/images/mulcolchk.png)
-![Screenshot5](/images/mulcolchk3.pngG)
+![Screenshot5](/images/mulcolchk3.png)
 ![Screenshot6](/images/norm2.png)
 
 <a id='config'></a>
