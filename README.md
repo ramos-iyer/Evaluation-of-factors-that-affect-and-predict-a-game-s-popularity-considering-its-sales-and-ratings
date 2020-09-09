@@ -79,13 +79,21 @@ In order to run the code, below are the necessary requirements:
 
 - R and R Studio: As the code is developed in R, you need to install R as well as R Studio in order to open and execute the files.
 - Packages: Below is a list of packages that need to be installed before execution of the code.
+
 C50
+
 caret
+
 RWeka
+
 pROC
+
 psych
+
 car
+
 stringr
+
 foreign
 
 <a id='files'></a>
