@@ -102,4 +102,4 @@ There are 2 main folders for this project:
 ### Credits and Acknowledgements
 
 * [Kaggle](https://www.kaggle.com/) for providing all the three datasets used for this project.
-* [NCI](https://www.ncirl.ie/) for a challenging project as part of their full-time masters in data analytics course subject 'Database and Analytics Programming'
+* [NCI](https://www.ncirl.ie/) for a challenging project as part of their full-time masters in data analytics course subject 'Data Mining and Machine Learning 1'
