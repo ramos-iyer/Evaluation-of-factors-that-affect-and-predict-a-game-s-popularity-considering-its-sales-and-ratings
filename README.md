@@ -71,6 +71,13 @@ The codes need to be opened on R Studio and can be run as a whole or run line by
 
 ### Screenshots
 
+![Screenshot1](/images/blrauc.png)
+![Screenshot2](/images/c5jripauc.png)
+![Screenshot3](/images/mlrass.pngG)
+![Screenshot4](/images/mulcolchk.png)
+![Screenshot5](/images/mulcolchk3.pngG)
+![Screenshot6](/images/norm2.png)
+
 <a id='config'></a>
 
 ### System Configuration Steps
